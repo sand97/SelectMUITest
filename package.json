@@ -1,0 +1,27 @@
+{
+  "title": "Testing MUI Select",
+  "name": "testing-mui-select-forked",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.4/docs/src/pages/components/selects/BasicSelect.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@testing-library/dom": "8.11.1",
+    "@testing-library/jest-dom": "5.15.0",
+    "@testing-library/react": "12.1.2",
+    "@testing-library/user-event": "13.5.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
